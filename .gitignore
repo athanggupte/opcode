@@ -1,0 +1,6 @@
+# binaries
+opcode
+float_bytes
+
+# extras
+.vscode/
